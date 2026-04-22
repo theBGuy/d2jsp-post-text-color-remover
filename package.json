@@ -1,0 +1,13 @@
+{
+  "name": "d2jsp-post-text-color-remover",
+  "version": "1.0.0",
+  "description": "Removes colored text from Taurean's posts on d2jsp.",
+  "scripts": {
+    "pack": "node scripts/pack.js",
+    "svg2png": "node svg2png.js"
+  },
+  "devDependencies": {
+    "archiver": "^7.0.1",
+    "sharp": "^0.34.5"
+  }
+}
