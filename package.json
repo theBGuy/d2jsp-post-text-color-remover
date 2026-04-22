@@ -4,7 +4,8 @@
   "description": "Removes colored text from Taurean's posts on d2jsp.",
   "scripts": {
     "pack": "node scripts/pack.js",
-    "svg2png": "node svg2png.js"
+    "svg2png": "node svg2png.js",
+    "combine:beforeafter": "node combine-before-after.js"
   },
   "devDependencies": {
     "archiver": "^7.0.1",
