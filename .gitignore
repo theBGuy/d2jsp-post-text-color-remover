@@ -2,3 +2,4 @@
 *.svg
 svg2png.js
 *.zip
+scripts/combine-before-after.js
