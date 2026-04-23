@@ -1,3 +1,4 @@
 /node_modules
 *.svg
 svg2png.js
+*.zip
