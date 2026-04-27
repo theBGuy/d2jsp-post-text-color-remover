@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "d2jsp Post Text Color Remover",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Removes colored text from posts by Taurean on forums.d2jsp.",
   "permissions": ["scripting"],
   "content_scripts": [
